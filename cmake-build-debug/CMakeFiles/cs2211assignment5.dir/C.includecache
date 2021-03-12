@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rosy/CLionProjects/cs2211assignment5/deleteWord.c
+header.h
+/Users/rosy/CLionProjects/cs2211assignment5/header.h
+
+/Users/rosy/CLionProjects/cs2211assignment5/header.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+
+/Users/rosy/CLionProjects/cs2211assignment5/inputWords.c
+header.h
+/Users/rosy/CLionProjects/cs2211assignment5/header.h
+
